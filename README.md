@@ -57,7 +57,5 @@ salary-prediction-streamlit-app/
 
 The app uses a dataset containing job-related features and corresponding salary values to train the decision tree model. The `model.pkl` file contains the serialized trained decision tree model for making predictions.
 
-## Contributing
 
-Contributions to this project are welcome! Please feel free to open a pull request or submit an issue if you have any suggestions, feature requests, or bug fixes.
 
